@@ -1,1 +1,1 @@
-      console.log("Hey ini salah linter")
+console.log('Hey ini salah linter')
